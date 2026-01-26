@@ -32,4 +32,4 @@ show ip interface brief<br>
 <br>
 🚀 Next Step<br>
 <br>
-Implement ACLs to restrict traffic between VLANs
+Added Extended ACL to restrict inter-VLAN access (only one PC from VLAN10 allowed to access VLAN20)
